@@ -1,2 +1,3 @@
 class SistemaEscola:
-    pass
+    def BLABLABLA(self):
+        pass
