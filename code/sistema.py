@@ -1,3 +1,3 @@
 class SistemaEscola:
-    def BLABLABLA(self):
+    def func_relatorio(self):
         pass
